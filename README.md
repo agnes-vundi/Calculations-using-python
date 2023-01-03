@@ -1,2 +1,2 @@
 # Calculations-using-python
- Implementing calculation using python
+ Performing various mathematical calculations using python.
